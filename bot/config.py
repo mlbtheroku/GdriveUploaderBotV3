@@ -1,9 +1,9 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
+    BOT_TOKEN = "5705156853:AAETn1HpOHb0POCFGqUCwGOLyVHVN0qR_rM"
+    APP_ID = "17894641"
+    API_HASH = "4e5b39e5c7c6066e5144dfc50cf466cf"
+    DATABASE_URL = "postgres://ihrsawqm:EiUg6VXSWiuy1yr2Cps_-jF0uKu1Jped@arjuna.db.elephantsql.com/ihrsawqm"
+    SUDO_USERS = "5468192421" # Sepearted by space.
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "202264815644.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "X4Z3ca8xfWDb1Voo-F9a7ZxJ"
